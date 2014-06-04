@@ -1,14 +1,13 @@
-# UBUNTU-CONKY
-# A comprehensive conky script, configured for use on
-# Ubuntu / Debian Gnome, without the need for any external scripts.
-#
-# Based on conky-jc and the default .conkyrc.
-# INCLUDES:
-# - tail of /var/log/messages 
-# - netstat connections to your computer
-#
-# -- Pengo (conky@pengo.us)
-#
+		
+ #    __//          
+ #   /.__.\         _     _      _               ██████╗ ██████╗ ██████╗ ███████╗
+ #   \ \/ /        | |   (_)    | |             ██╔════╝██╔═══██╗██╔══██╗██╔════╝
+ #'__/    \     ___| |__  _  ___| | _ ___ _ __  ██║     ██║   ██║██║  ██║█████╗ 
+ # \-      )   / __| '_ \| |/ __| |/ / _ \ '_ \ ██║     ██║   ██║██║  ██║██╔══╝
+ #  \_____/   | (__| | | | | (__|   <  __/ | | |╚██████╗╚██████╔╝██████╔╝███████╗
+#_____| |_     \___|_| |_|_|\___|_|\_\___|_| |_| ╚═════╝ ╚═════╝ ╚═════╝ ╚══════
+#     " " 
+
 
 # Create own window instead of using desktop (required in nautilus)
 own_window yes
